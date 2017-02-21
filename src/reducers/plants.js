@@ -1,5 +1,5 @@
-function plants() {
-
+function plants(state = [], action) {
+  // reducer code
   return state;
 }
 
